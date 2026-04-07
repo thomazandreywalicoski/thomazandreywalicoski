@@ -12,4 +12,6 @@
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
 
+<h2 align="center">Crio automações com o objetivo de simplificar processos e resolver problemas reais</h2>
+
 </div>
